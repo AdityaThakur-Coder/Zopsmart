@@ -19,5 +19,5 @@ def sum(num=None):
     return inner
 
 
-print(sum(1)(2)(3)(4)(5)())  #
+print(sum(1)(2)(3)(4)(5)())  
 print(sum(3)(7)())           
